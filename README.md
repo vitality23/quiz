@@ -4,4 +4,4 @@ Hello there, welcome, so in this assignment we were supposed to make a quiz. Thi
 The criteria for this was, there has to be a timer, you need multiple choice questions, and if you get a question right or wroing it will deduct points. So far I did 
 fairly, but i had an issue with trying to remove or add points upon getting the correct or wrong asnwer, any tips will be greatly appreciated.
 
-##heres what i have https://vitality23.github.io/quiz/
+## heres what i have https://vitality23.github.io/quiz/
